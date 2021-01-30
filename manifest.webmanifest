@@ -1,0 +1,12 @@
+{
+	"name": "random app",
+	"description": "Juste pour m'entraîner et tester la fonctionnallité d'A2HS desktop ainsi que les service workers.",
+	"display": "fullscreen",
+	"icons": [
+  		{
+  		  "src": "assets/icon.png",
+  		  "sizes": "1042x1042",
+  		  "type": "image/png"
+  		}
+  	]
+}
